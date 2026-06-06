@@ -32,7 +32,7 @@ Before writing distribution copy:
 
 ## Platform Selection
 
-Read `references/platform-map.md` when selecting channels.
+Read `references/platform-map.md` when selecting channels and when drafting platform-specific copy. If the user asks for platform writing style or channel-native copy, rely on the map first and add current research notes when needed.
 
 For app tools, default recommended channels:
 
@@ -52,6 +52,8 @@ For app tools, default recommended channels:
 - Email/newsletter if an audience exists.
 
 Do not generate every platform when it would create noise. Recommend a channel set, then generate the selected pack.
+
+朋友圈/微信群 and 抖音/Bilibili are optional channels. Include them only when the user explicitly asks for private-network distribution, short-video scripts, or the product has a strong visual demo that justifies them.
 
 ## Message Construction
 
@@ -91,8 +93,6 @@ Then rewrite for each platform. Do not merely translate.
 ### 知乎
 ### 少数派
 ### V2EX
-### 朋友圈 / 微信群
-### 抖音 / Bilibili Short Script
 
 ## English Distribution Pack
 
@@ -110,6 +110,11 @@ Then rewrite for each platform. Do not merely translate.
 ### In-App Announcement
 ### FAQ
 ### Press Kit
+
+## Optional Channels
+
+### 朋友圈 / 微信群
+### 抖音 / Bilibili Short Script
 
 ## Do-Not-Say List
 
