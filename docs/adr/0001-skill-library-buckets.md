@@ -6,6 +6,7 @@ Organize skills by bucket under `skills/`:
 
 - `product`
 - `risk`
+- `distribution`
 - `engineering`
 - `productivity`
 - `design`
@@ -14,7 +15,7 @@ Organize skills by bucket under `skills/`:
 - `in-progress`
 - `deprecated`
 
-Only promoted skills in `product`, `risk`, `engineering`, `productivity`, `design`, and `misc` are included in `.claude-plugin/plugin.json`.
+Only promoted skills in `product`, `risk`, `distribution`, `engineering`, `productivity`, `design`, and `misc` are included in `.claude-plugin/plugin.json`.
 
 ## Why
 

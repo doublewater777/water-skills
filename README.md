@@ -26,6 +26,7 @@ List skills in the library:
 
 - [Product](./skills/product/README.md): product discovery, validation, PMF, growth, and builder workflows.
 - [Risk](./skills/risk/README.md): name availability, platform policy, compliance, and launch-risk checks.
+- [Distribution](./skills/distribution/README.md): launch messaging and platform-native distribution kits.
 - [Engineering](./skills/engineering/README.md): daily code work.
 - [Productivity](./skills/productivity/README.md): non-code workflow tools.
 - [Design](./skills/design/README.md): UI, visual, brand, and product design workflows.
@@ -56,10 +57,14 @@ List skills in the library:
 - [name-availability-check](./skills/risk/name-availability-check/SKILL.md) - Check product, app, feature, domain, package, repository, and handle names for collision and preliminary trademark risk.
 - [product-compliance-check](./skills/risk/product-compliance-check/SKILL.md) - Check product or feature launch risks across platform policy, privacy, payments, AI, UGC, sensitive domains, and target markets.
 
+## Distribution
+
+- [launch-distribution-kit](./skills/distribution/launch-distribution-kit/SKILL.md) - Generate a bilingual launch distribution kit for app tools and feature releases across app stores, owned channels, international communities, China platforms, developer channels, email, press kit, and social posts.
+
 ## Maintenance Rules
 
 - Every skill folder must contain `SKILL.md`.
-- Every promoted skill in `product`, `risk`, `engineering`, `productivity`, `design`, or `misc` must appear in both this README and `.claude-plugin/plugin.json`.
+- Every promoted skill in `product`, `risk`, `distribution`, `engineering`, `productivity`, `design`, or `misc` must appear in both this README and `.claude-plugin/plugin.json`.
 - Every bucket README must list the skills in that bucket.
 - Skills in `personal`, `in-progress`, and `deprecated` must not appear in `.claude-plugin/plugin.json`.
 - Keep `SKILL.md` concise; move long templates, examples, or systems into `references/`.
