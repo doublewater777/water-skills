@@ -52,6 +52,8 @@ For app tools, default recommended channels:
 
 Do not generate every platform when it would create noise. Recommend a channel set, then generate the selected pack.
 
+If the user says the website/官网 does not need work, treat that as "do not update the website copy or page" unless they explicitly say not to include website links. Existing official website links should remain available as secondary CTAs, privacy/detail links, or product explainer links where the platform format supports them.
+
 朋友圈/微信群 and 抖音/Bilibili are optional channels. Include them only when the user explicitly asks for private-network distribution, short-video scripts, or the product has a strong visual demo that justifies them.
 
 ## Message Construction
