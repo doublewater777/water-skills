@@ -75,6 +75,15 @@ Then rewrite for each platform. Do not merely translate.
 
 ## Output Structure
 
+When the user asks for "成品", "可复制发布", "ready to post", or "publish-ready", create a final copy pack instead of an outline-heavy strategy pack:
+
+- Save it as `.builder/evidence/artifacts/YYYY-MM-DD-launch-ready-copy-pack.md`.
+- Use copyable fenced text blocks for each platform's title, body, first comment, and reply templates.
+- Write full articles for WeChat official account, Toutiao, Zhihu, and Shaoshupai when those channels are selected; do not leave them as outlines or pitches.
+- Include screenshot/asset order using real local asset paths when available.
+- Include common reply templates for likely objections, privacy questions, compatibility questions, and pricing questions.
+- Keep a separate strategy/draft kit only when useful, and make the final copy pack the artifact to publish from.
+
 ```markdown
 # Launch Distribution Kit
 
