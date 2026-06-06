@@ -148,35 +148,6 @@ Source signals:
 
 - Jike App Store positioning around niche circles and daily sharing: https://apps.apple.com/cn/app/%E5%8D%B3%E5%88%BBapp/id966129812
 
-### 知乎
-
-Best for: problem explanation, comparison, workflow method, search-friendly evergreen content.
-
-Generate:
-
-- real question angles
-- answer outline
-- answer draft
-- soft CTA
-
-Style:
-
-- answer the question directly
-- make the target scenario explicit
-- include "适合 / 不适合"
-- explain tradeoffs and limitations before the CTA
-
-Avoid:
-
-- pure advertising answer
-- answer-title mismatch
-- over-broad claims
-- diverting readers away without providing useful answer content
-
-Source signals:
-
-- Zhihu creator manual: https://www.zhihu.com/knowledge-plan/manual
-
 ### 少数派
 
 Best for: productivity apps, Apple ecosystem tools, workflow articles, thoughtful setup posts.
