@@ -1,0 +1,19 @@
+{
+  "name": "water-skills",
+  "skills": [
+    "./skills/product/builder-business-model",
+    "./skills/product/builder-fake-door",
+    "./skills/product/builder-feature-cycle",
+    "./skills/product/builder-framework",
+    "./skills/product/builder-growth-channel",
+    "./skills/product/builder-hypothesis",
+    "./skills/product/builder-manual-onboarding",
+    "./skills/product/builder-mvp-loop",
+    "./skills/product/builder-narrow-wedge",
+    "./skills/product/builder-pmf-maintenance",
+    "./skills/product/builder-retention-signals",
+    "./skills/product/builder-scale-playbook",
+    "./skills/product/builder-super-users",
+    "./skills/product/builder-user-interviews"
+  ]
+}
