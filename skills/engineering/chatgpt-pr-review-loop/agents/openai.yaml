@@ -1,0 +1,4 @@
+interface:
+  display_name: "ChatGPT PR Review Loop"
+  short_description: "Iterate browser PR reviews to Review OK"
+  default_prompt: "Use $chatgpt-pr-review-loop to inspect the open ChatGPT PR review, fix actionable findings, validate, push, and repeat until the reviewer explicitly says Review OK."

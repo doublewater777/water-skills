@@ -70,6 +70,12 @@ AGENT_SKILLS_DIR=./my-skills ./scripts/link-skills.sh
 | --- | --- |
 | [launch-distribution-kit](./skills/distribution/launch-distribution-kit/SKILL.md) | Generate a bilingual launch distribution kit for app tools and feature releases across app stores, owned channels, international communities, China platforms, developer channels, email, press kit, and social posts. |
 
+### Engineering
+
+| Skill | Description |
+| --- | --- |
+| [chatgpt-pr-review-loop](./skills/engineering/chatgpt-pr-review-loop/SKILL.md) | Iteratively resolve ChatGPT PR review findings until the reviewer says Review OK. |
+
 ### Buckets
 
 | Bucket | Description |
