@@ -16,6 +16,8 @@
     "./skills/product/builder-super-users",
     "./skills/product/builder-user-interviews",
     "./skills/engineering/chatgpt-pr-review-loop",
+    "./skills/engineering/pr-builder",
+    "./skills/engineering/pr-reviewer",
     "./skills/distribution/launch-distribution-kit",
     "./skills/risk/name-availability-check",
     "./skills/risk/product-compliance-check"
