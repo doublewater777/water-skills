@@ -70,6 +70,12 @@ AGENT_SKILLS_DIR=./my-skills ./scripts/link-skills.sh
 | --- | --- |
 | [launch-distribution-kit](./skills/distribution/launch-distribution-kit/SKILL.md) | Generate a bilingual launch distribution kit for app tools and feature releases across app stores, owned channels, international communities, China platforms, developer channels, email, press kit, and social posts. |
 
+### Productivity
+
+| Skill | Description |
+| --- | --- |
+| [domain-quickbuy](./skills/productivity/domain-quickbuy/SKILL.md) | Select domain suffixes, compare registration and renewal prices, and verify purchase readiness across registrars using CLI, official APIs, MCP, or browser checkout. |
+
 ### Engineering
 
 | Skill | Description |

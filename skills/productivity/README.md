@@ -2,4 +2,6 @@
 
 Daily non-code workflow tools.
 
-No promoted productivity skills yet.
+| Skill | Description |
+| --- | --- |
+| [domain-quickbuy](./domain-quickbuy/SKILL.md) | Choose domain suffixes, compare live registration and renewal prices, and prepare authorized domain purchases. |

@@ -18,6 +18,7 @@
     "./skills/engineering/chatgpt-pr-review-loop",
     "./skills/distribution/launch-distribution-kit",
     "./skills/risk/name-availability-check",
-    "./skills/risk/product-compliance-check"
+    "./skills/risk/product-compliance-check",
+    "./skills/productivity/domain-quickbuy"
   ]
 }
