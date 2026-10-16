@@ -3,7 +3,7 @@ import {execFileSync} from 'node:child_process';
 
 const account = process.env.CLOUDFLARE_ACCOUNT_ID || '';
 const providers = ['spaceship','cloudflare','namesilo','dynadot','porkbun','namecheap'];
-const excludedProviders = [{provider:'porkbun',state:'excluded_by_user',reason:'Current account cannot complete phone verification; excluded from default comparison at user request on 2026-10-15.'}];
+const excludedProviders = [];
 const defaultProviders = providers.filter(p=>!excludedProviders.some(x=>x.provider===p));
 function secret(provider, field) {
   const env = `${provider.toUpperCase()}_${field.toUpperCase().replaceAll('-','_')}`;

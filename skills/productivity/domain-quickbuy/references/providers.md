@@ -53,7 +53,7 @@ API 管理：https://www.dynadot.com/account/domain/setting/api.html
 
 ## Porkbun
 
-当前账号购买阻塞，用户已要求从默认比价和推荐中排除。以下操作仅在用户明确要求重新检查或恢复时使用。
+纳入默认比价。API/MCP 注册若因账号验证受阻，保留报价并提供官方网页购买作为备选；网页能否完成付款需在当次流程中核实，不能从 API 错误推断整个平台不能购买。
 
 统一 CLI 提供官方 API 适配器（需先配置凭据）：`doctor porkbun` 验证密钥（不输出IP），`check porkbun example.com` 查询，`plan porkbun example.com` 调用 `/domain/create/{domain}`，固定 `dryRun:true,cost:0,agreeToTerms:"yes"`，不创建订单或扣款。检查 `providerValidation`，不是仅看外层命令 `ok`。
 

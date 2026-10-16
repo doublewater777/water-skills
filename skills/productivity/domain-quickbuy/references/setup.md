@@ -11,12 +11,12 @@ Node.js 18+。Spaceship 路径需要官方 `spaceship` CLI 已登录且可在 PA
 - `CLOUDFLARE_ACCOUNT_ID` 与 `CLOUDFLARE_API_TOKEN`。
 - `NAMESILO_API_KEY`。
 - `DYNADOT_API_KEY`。
-- `PORKBUN_API_KEY` 与 `PORKBUN_SECRET_API_KEY`（仅用户明确要求重新检查 Porkbun 时使用）。
+- `PORKBUN_API_KEY` 与 `PORKBUN_SECRET_API_KEY`。
 
 密钥不要提交 Git。macOS 可用钥匙串替代密钥环境变量，service 为 `registrar-quickbuy-<provider>`，account 分别为 Cloudflare `api-token`、NameSilo/Dynadot `api-key`、Porkbun `api-key` 和 `secret-api-key`。Cloudflare account ID 仍需单独设置。非 macOS 使用环境变量。
 
 ## 平台状态与偏好
 
-Namecheap 生产 API 资格在账号内核实，未开通时走已登录网页。Porkbun 按此技能所有者偏好默认排除：CLI `all` 不查询它；恢复前需用户明确要求，并解决账号验证条件。
+Namecheap 生产 API 资格在账号内核实，未开通时走已登录网页。Porkbun 纳入 CLI `all` 默认查询和比价；API/MCP 购买验证受阻时可走官方网页备选，实际下单前核实账号和付款条件。
 
 运行记录和私人账号状态另存在本机，不写入公开仓库。每次购买前按 providers.md 核实联系人、协议、隐私、续费和付款来源。
